@@ -13,7 +13,7 @@
 
 ## 🔗 Live Demo
 
-**[syedzhuhear-pro.github.io/Ferrari](https://syedzhuhear-pro.github.io/Ferrari/index.html)**
+**[syedzhuhear-pro.github.io/Ferrari](https://syedzhuhear-pro.github.io/Ferrari---Legacy-of-Performance/index.html)**
 
 ## 📖 About
 
