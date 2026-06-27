@@ -118,7 +118,7 @@ This project is open source and available under the [MIT License](LICENSE). Ferr
 
 ## 🙋 Author
 
-**Syed Zuhear**
+**Syed Zhuhear**
 GitHub: [@syedzhuhear-pro](https://github.com/syedzhuhear-pro)
 
 ## 🙏 Acknowledgments
